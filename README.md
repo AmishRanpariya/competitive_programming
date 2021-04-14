@@ -1,6 +1,10 @@
-# competitive_programming
+# Competitive Programming
+
 Competitive programming solutions
 
-
-[CF337-D2-B](https://codeforces.com/contest/337/problem/B)
-
+> - CF = CodeForces
+> - CC = CodeChef
+> - CJ = CodeJam
+> - KS = KickStart
+> - HC = HashCode
+> - LC = LeetCode
